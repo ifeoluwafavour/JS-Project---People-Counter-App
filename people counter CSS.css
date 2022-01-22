@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+}
+
+button {
+	border: none;
+	padding: 10px 10px;
+	font-weight: bold;
+}
+
+#incrementbtn {
+	background-color: red;
+}
+
+#savebtn {
+	background-color: green;
+}
